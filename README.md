@@ -1,8 +1,12 @@
 # Julio Villamón 👋
 
-**Analista de Sistemas & Administrador TI** 
+**Analista de Sistemas & Administrador TI**
 
-En este espacio mantengo un repositorio de software multiplataforma, en su mayoría libre.
+Bienvenid@ a mi perfil de GitHub. Aquí comparto documentación, utilidades y proyectos personales:
+
+* 📦 **[multiplataforma](https://github.com/JulioVillamon/multiplataforma):** Recopilación y clasificación de software libre y multiplataforma para Windows, macOS y GNU/Linux.
+* 🎮 **[salto-verde](https://github.com/JulioVillamon/salto-verde):** Mini juego runner 2D en HTML5 Canvas con pixel art y recursos CC0. Desarrollado sin dependencias externas.
+
 
 ---
 
